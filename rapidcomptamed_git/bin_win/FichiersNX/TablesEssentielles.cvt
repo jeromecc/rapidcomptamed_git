@@ -1,0 +1,697 @@
+001##.##A##.##ABORD OUVERT##.##accès exposant le site opératoire, par incision des téguments et de tout autre tissu sousjacent, sans introduction d'un instrument d'optique.Par extension, concerne tout accès à travers la peau par une ouverture cutanée d'origine.##.##
+001##.##B##.##ACCÈS TRANSPARIÉTAL##.##accès au site opératoire par ponction ou incision minime des téguments et de tout autre tissu sousjacent, sans introduction d'un instrument d'optique##.##
+001##.##C##.##ACCÈS ENDOSCOPIQUE TRANSPARIÉTAL##.##accès au site opératoire par ponction ou incision minime des téguments et de tout autre tissu sousjacent, avec introduction d'un instrument d'optique##.##
+001##.##D##.##ACCÈS TRANSORIFICIEL##.##accès au site opératoire en passant par un orifice externe naturel ou artificiel (stomie cutanée), sans introduction d'un instrument d'optique##.##
+001##.##E##.##ACCÈS ENDOSCOPIQUE TRANSORIFICIEL##.##accès au site opératoire en passant par un orifice externe naturel ou artificiel (stomie cutanée), avec introduction d'un instrument d'optique##.##
+001##.##F##.##ACCÈS INTRALUMINAL TRANSPARIÉTAL##.##accès au site opératoire par la lumière d'un conduit anatomique après ponction ou incision minime des téguments, sans introduction d'un instrument d'optique##.##
+001##.##G##.##ACCÈS ENDOSCOPIQUE INTRALUMINAL TRANSPARIÉTAL##.##accès au site opératoire par la lumière d'un conduit anatomique après ponction ou incision minime des téguments, avec introduction d'un instrument d'optique##.##
+001##.##H##.##ACTE PAR RAYONS X, AVEC ACCÈS AUTRE QU'ABORD OUVERT##.##réalisation d'un acte utilisant des rayons X, avec accès autre qu'un abord ouvert##.##
+001##.##J##.##ACTE PAR ULTRASONS OU REMNOGRAPHIEAVEC ACCÈS AUTRE QU'ABORD OUVERT##.##réalisation d'un acte utilisant des ultrasons ou la résonance magnétique, avec accès autre qu'un abord ouvert##.##
+001##.##K##.##ACTE PAR RAYONS X, SANS ACCÈS##.##réalisation d'un acte utilisant des rayons X, sans accès##.##
+001##.##L##.##ACTE PAR AGENT IONISANT##.##réalisation d'un acte utilisant des agents ionisants autres que les rayons X (isotopes radioactifs, particules …)##.##
+001##.##M##.##ACTE PAR ULTRASONS, SANS ACCÈS##.##réalisation d'un acte utilisant des ultrasons, sans accès##.##
+001##.##N##.##ACTE PAR REMNOGRAPHIE SANS ACCÈS##.##réalisation d'un acte utilisant la résonance magnétique, sans accès##.##
+001##.##P##.##ACTE PAR AUTRE MOYEN, SANS ACCÈS, OU NON PRÉCISÉ##.##réalisation d'un acte utilisant d'autre moyen, sans accès, ou sans précision sur ses modalités##.##
+002##.##A##.##à foyer ouvert##.##
+002##.##A##.##par ... abord …##.##
+002##.##A##.##par dissection ...##.##
+002##.##A##.##par excision de ...##.##
+002##.##A##.##par craniotomie##.##
+002##.##A##.##par craniocervicotomie##.##
+002##.##A##.##par cervicotomie##.##
+002##.##A##.##par cervicothoracotomie##.##
+002##.##A##.##par thoracotomie##.##
+002##.##A##.##par thoraco-phréno-laparotomie##.##
+002##.##A##.##par costotransversectomie##.##
+002##.##A##.##par laparotomie##.##
+002##.##A##.##par lombotomie##.##
+002##.##A##.##par périnéotomie##.##
+002##.##A##.##par arthrotomie##.##
+002##.##A##.##par colpotomie##.##
+002##.##A##.##par rectotomie##.##
+002##.##A##.##par sclérotomie##.##
+002##.##A##.##par -tomie##.##
+002##.##B##.##à foyer fermé##.##
+002##.##B##.##par injection intracaverneuse##.##
+002##.##B##.##par injection intradermique##.##
+002##.##B##.##par injection souscutanée##.##
+002##.##B##.##par injection transcutanée intralésionnelle##.##
+002##.##B##.##par injection transcutanée intratumorale ou péritumorale##.##
+002##.##B##.##par injection transmuqueuse##.##
+002##.##B##.##par ponction (transcutanée) de (organe)##.##
+002##.##B##.##par micro-incisions##.##
+002##.##B##.##par voie (…) transcutanée##.##
+002##.##B##.##par piqûre épidermique##.##
+002##.##B##.##par voie intramusculaire##.##
+002##.##B##.##par voie souscutanée##.##
+002##.##B##.##par voie stéréotaxique##.##
+002##.##B##.##par voie transcrânienne##.##
+002##.##B##.##par voie transfontanellaire##.##
+002##.##B##.##par voie transpérinéale##.##
+002##.##B##.##par voie transrectale##.##
+002##.##B##.##par voie transsclérale##.##
+002##.##B##.##par voie transsphénoïdale##.##
+002##.##B##.##par voie transtympanique##.##
+002##.##B##.##par voie transunguéale##.##
+002##.##B##.##par voie transvaginale##.##
+002##.##C##.##par arthoscopie##.##
+002##.##C##.##par cervicoscopie##.##
+002##.##C##.##par coelioscopie##.##
+002##.##C##.##par médiastinoscopie##.##
+002##.##C##.##par rétropéritonéoscopie##.##
+002##.##C##.##par thoracoscopie##.##
+002##.##C##.##par vidéochirurgie##.##
+002##.##C##.##par endoscopie transethmoïdale##.##
+002##.##D##.##par voie intracavitaire##.##
+002##.##D##.##par voie nasale##.##
+002##.##D##.##par voie buccale##.##
+002##.##D##.##par voie oesophagienne##.##
+002##.##D##.##par voie anale##.##
+002##.##D##.##par voie utérine##.##
+002##.##D##.##par voie vaginale##.##
+002##.##D##.##par voie naturelle##.##
+002##.##D##.##par cathétérisme urétral##.##
+002##.##D##.##par une -stomie déjà en place##.##
+002##.##E##.##par endoscopie (...)##.##
+002##.##E##.##par fibroscopie##.##
+002##.##E##.##par laryngoscopie (...)##.##
+002##.##E##.##par bronchoscopie au tube rigide##.##
+002##.##E##.##par oeso-gastro-duodénoscopie##.##
+002##.##E##.##par jéjunoscopie##.##
+002##.##E##.##par iléoscopie##.##
+002##.##E##.##par coloscopie …##.##
+002##.##E##.##par rectosigmoïdoscopie##.##
+002##.##E##.##par cholangioscopie rétrograde##.##
+002##.##E##.##par néphroscopie par une néphrostomie déjà en place##.##
+002##.##E##.##par urétéroscopie antérograde par une néphrostomie déjà en place##.##
+002##.##E##.##par urétéroscopie rétrograde##.##
+002##.##E##.##par urétrocystoscopie##.##
+002##.##E##.##par urétroscopie##.##
+002##.##E##.##par hystéroscopie##.##
+002##.##E##.##par colposcopie##.##
+002##.##E##.##par vaginoscopie##.##
+002##.##F##.##par hémodiafiltration, hémofiltration ou biofiltration##.##
+002##.##F##.##par hémodialyse##.##
+002##.##F##.##par hémoperfusion##.##
+002##.##F##.##par injection intraartérielle transcutanée##.##
+002##.##F##.##par injection intravasculaire transcutanée##.##
+002##.##F##.##par injection intraveineuse transcutanée##.##
+002##.##F##.##par ponction du cordon ombilical##.##
+002##.##F##.##par ponction transcutanée (d'un conduit) (d'un organe creux)##.##
+002##.##F##.##par perfusion##.##
+002##.##F##.##par un dispositif d'accès veineux##.##
+002##.##F##.##par voie artérielle transcutanée##.##
+002##.##F##.##par voie vasculaire transcutanée##.##
+002##.##F##.##par voie veineuse transcutanée##.##
+002##.##G##.##-scopie, par voie transcutanée##.##
+002##.##G##.##par néphroscopie transcutanée##.##
+002##.##G##.##par urétéroscopie antérograde           transcutanée##.##
+002##.##H##.##avec contrôle radiologique##.##
+002##.##H##.##avec guidage radiologique##.##
+002##.##H##.##avec guidage scanographique##.##
+002##.##H##.##avec ingestion de produit de contraste##.##
+002##.##H##.##avec injection de produit de contraste##.##
+002##.##H##.##par injection de produit de contraste##.##
+002##.##J##.##avec guidage échographique##.##
+002##.##J##.##avec guidage remnographique [IRM]##.##
+002##.##K##.##par radiographie##.##
+002##.##K##.##par radiologie##.##
+002##.##L##.##Curiethérapie##.##
+002##.##L##.##Irradiation externe##.##
+002##.##L##.##Scintigraphie##.##
+002##.##L##.##par radio-isotope##.##
+002##.##L##.##par méthode radio-isotopique##.##
+002##.##L##.##- radio-isotopique##.##
+002##.##M##.##Échographie (-doppler) transfontanellaire##.##
+002##.##M##.##Échographie (-doppler) transcrânienne##.##
+002##.##M##.##Échographie (-doppler) transcutanée##.##
+002##.##M##.##Échographie (-doppler) transthoracique##.##
+002##.##M##.##par échocardiographie transthoracique##.##
+002##.##M##.##par doppler … transcrânien##.##
+002##.##M##.##par doppler … transcutané##.##
+002##.##N##.##Remnographie [IRM]##.##
+002##.##N##.##par résonance magnétique cérébrale##.##
+002##.##N##.##par remnographie [IRM]##.##
+002##.##P##.##réalisation d'un acte utilisant d'autre moyen, sans accès, ou sans précision sur ses modalités##.##
+003##.##AGRANDIR##.##A##.##augmenter les dimensions (longueur, calibre, surface ou volume) d'un élément de l'organisme##.##
+003##.##COMBLER##.##B##.##emplir un espace ou une cavité en y apportant un matériau biologique ou artificiel##.##
+003##.##COMPRIMER##.##B##.##maintenir une pression sur une partie de l'organisme##.##
+003##.##RÉTRÉCIR##.##B##.##diminuer les dimensions (longueur, calibre, surface ou volume) d'un élément de l'organisme##.##
+003##.##DÉVIER##.##C##.##modifier le trajet d'un élément de l'organisme ou le parcours physiologique d'un fluide organique, pour contourner un obstacle ou mettre hors circuit [exclure] un segment tubulaire de l'organisme, sans pratiquer d'exérèse##.##
+003##.##OUVRIR##.##C##.##réaliser un orifice dans un organe à l'aide d'un instrument pointu##.##
+003##.##RÉUNIR##.##C##.##assembler des éléments anatomiques dont la continuité a été accidentellement ou intentionnellement interrompue. Établir la communication entre une cavité ou un organe creux (tubulaire ou non), et une autre partie creuse de l'organisme ou l'extérieur##.##
+003##.##FIXER##.##D##.##placer un organe, un segment anatomique ou un dispositif dans une position fixe et durable##.##
+003##.##DÉPLACER##.##E##.##modifier la place d'un organe ou d'une structure anatomique, afin de pallier l'absence ou la défaillance d'un organe ou d'une structure identique du même organisme ou d'un organisme différent##.##
+003##.##REPLACER##.##E##.##ramener un organe déplacé dans sa position anatomique normale, ou dans une position appropriée##.##
+003##.##EXCISER##.##F##.##retirer une partie de l'organisme en la séparant de celui-ci par une section##.##
+003##.##ENLEVER##.##G##.##retirer de l'organisme un élément qui lui étranger (corps étranger, matériau synthétique, prothèse)##.##
+003##.##ÉVIDER##.##G##.##retirer une partie de l'organisme en la séparant de celui-ci par clivage, creusement, forage ou grattage##.##
+003##.##EXTRAIRE##.##G##.##retirer un élément de l'organisme en le séparant de celui-ci par une traction plus ou moins importante exercée sur lui##.##
+003##.##PRÉLEVER##.##H##.##prendre une partie d'un élément biologique (solide ou liquide) ou d'une structure anatomique, pour examen ou analyse##.##
+003##.##DRAINER##.##J##.##diriger l'évacuation d'un fluide hors de son lieu d'origine dans l'organisme, par l'intermédiaire d'un dispositif adapté (drain, mèche, lame...) laissé en place##.##
+003##.##ÉVACUER##.##J##.##faire sortir un fluide de l'organisme sans laisser en place de dispositif particulier##.##
+003##.##NETTOYER##.##J##.##débarrasser une partie de l'organisme d'éléments indésirables ou nocifs##.##
+003##.##CHANGER##.##K##.##enlever un dispositif de l'organisme et remettre simultanément en place un dispositif identique ou analogue dans le même site##.##
+003##.##REMPLACER##.##K##.##retirer une partie altérée de l'organisme et y substituer simultanément un dispositif ou une structure anatomiquement identique et apte à remplir sa fonction##.##
+003##.##APPLIQUER##.##L##.##disposer un agent thérapeutique à visée locale ou générale à la surface de l'organisme ou d'une de ses parties, sans effraction des téguments##.##
+003##.##IMPLANTER##.##L##.##introduire un dispositif au sein d'une partie de l'organisme sans exérèse simultanée,  pour renforcer ou protéger une structure, surveiller, assister ou relayer une fonction, ou prendre la place d'une structure déficiente ou absente##.##
+003##.##INJECTER##.##L##.##introduire un agent biologique ou pharmacologique dans l'organisme, par un orifice naturel, un dispositif implanté ou une ponction##.##
+003##.##FABRIQUER##.##M##.##concevoir et réaliser un élément, une structure, une disposition ou un appareillage##.##
+003##.##PRÉPARER##.##M##.##rendre possible la réalisation d'un acte par un travail préalable##.##
+003##.##RÉGLER##.##M##.##mettre au point ou vérifier le fonctionnement d'un mécanisme ou d'un appareillage##.##
+003##.##RÉPARER##.##M##.##remettre une structure anatomique altérée dans un état normal ou proche de son état normal sans la remplacer, de façon à lui permettre de remplir son rôle physiologique ou de lui redonner un aspect proche de la normale. Se substituer à une fonction physio##.##
+003##.##RÉVISER##.##M##.##retourner sur un site pour apporter une correction au résultat précédent ou en vérifier le résultat##.##
+003##.##DÉTRUIRE##.##N##.##altérer la structure d'éléments physiologiques ou pathologiques de l'organisme au moyen d'agents mécaniques, physiques ou chimiques, de façon à en provoquer la disparition##.##
+003##.##FRAGMENTER##.##N##.##diviser en petites parties un élément solide contenu dans l'organisme##.##
+003##.##COUPER##.##P##.##sectionner un élément anatomique sans l'enlever##.##
+003##.##LIBÉRER##.##P##.##dégager un élément anatomique comprimé ou gêné dans son fonctionnement, au sein de l'organisme##.##
+003##.##SÉPARER##.##P##.##disjoindre des éléments anatomiques contigus. Isoler certains éléments contenus dans un milieu biologique à l'aide de techniques particulières de tri##.##
+003##.##ENREGISTRER##.##Q##.##produire et analyser un document durable reproduisant l'image du corps ou de ses organes, ou traduisant l'activité d'un organe, à l'aide d'un appareillage approprié##.##
+003##.##EXAMINER##.##Q##.##observer l'organisme ou un de ses éléments, directement ou à l'aide d'instruments, pour en étudier ou en suivre le fonctionnement, sans produire d'enregistrement durable##.##
+003##.##GUIDER##.##Q##.##aider à atteindre un élément profond de l'organisme dont l'abord aveugle à travers les téguments serait trop difficile ou trop dangereux, en orientant la trajectoire d'un instrument##.##
+003##.##MESURER##.##Q##.##déterminer la qualité ou la quantité de certains éléments biologiques au moyen d'une instrumentation ou d'une expérience adaptée##.##
+003##.##ÉDUQUER##.##R##.##mettre en œuvre des moyens propres à améliorer la formation et les connaissances d'un individu##.##
+003##.##PROVOQUER##.##R##.##susciter une réaction de l'organisme sous l'effet d'un facteur externe contrôlé ou d'un agent pharmacologique, de manière à en modifier le comportement ou à  en corriger une altération##.##
+003##.##RÉÉDUQUER##.##R##.##appliquer une méthode non effractive destinée à recouvrer l'usage partiel ou total d'une partie de l'organisme lésée##.##
+003##.##OCCLURE##.##S##.##fermer l'orifice ou la lumière d'une structure anatomique tubulaire sans la couper##.##
+004##.##AGRANDIR##.##A##.##AGRANDISSEMENT##.##
+004##.##AGRANDIR##.##A##.##ALLONGEMENT##.##
+004##.##AGRANDIR##.##A##.##APPROFONDISSEMENT##.##
+004##.##AGRANDIR##.##A##.##DILATATION##.##
+004##.##AGRANDIR##.##A##.##DISTENSION##.##
+004##.##AGRANDIR##.##A##.##ÉLARGISSEMENT##.##
+004##.##AGRANDIR##.##A##.##RECALIBRAGE##.##
+004##.##AGRANDIR##.##A##.##REHAUSSEMENT##.##
+004##.##APPLIQUER##.##L##.##APPLICATION##.##
+004##.##APPLIQUER##.##L##.##-APPLICATION##.##
+004##.##CHANGER##.##K##.##CHANGEMENT##.##
+004##.##COMBLER##.##B##.##APPOSITION##.##
+004##.##COMBLER##.##B##.##COMBLEMENT##.##
+004##.##COMBLER##.##B##.##CRANIALISATION##.##
+004##.##COMBLER##.##B##.##ENROBAGE##.##
+004##.##COMBLER##.##B##.##INTERPOSITION##.##
+004##.##COMBLER##.##B##.##OBTURATION##.##
+004##.##COMBLER##.##B##.##RECOUVREMENT##.##
+004##.##COMPRIMER##.##B##.##COMPRESSION##.##
+004##.##COMPRIMER##.##B##.##CONTENTION##.##
+004##.##COMPRIMER##.##B##.##TAMPONNEMENT##.##
+004##.##COUPER##.##P##.##AUTONOMISATION##.##
+004##.##COUPER##.##P##.##DÉNERVATION##.##
+004##.##COUPER##.##P##.##INCISION##.##
+004##.##COUPER##.##P##.##INTERRUPTION##.##
+004##.##COUPER##.##P##.##MARSUPIALISATION##.##
+004##.##COUPER##.##P##.##MISE À PLAT##.##
+004##.##COUPER##.##P##.##SECTION##.##
+004##.##COUPER##.##P##.##TAILLE##.##
+004##.##COUPER##.##P##.##TRANSSECTION##.##
+004##.##COUPER##.##P##.##-SECTION##.##
+004##.##COUPER##.##P##.##-TOMIE##.##
+004##.##DÉPLACER##.##E##.##ABAISSEMENT##.##
+004##.##DÉPLACER##.##E##.##AVANCEMENT##.##
+004##.##DÉPLACER##.##E##.##CORÉPRAXIE##.##
+004##.##DÉPLACER##.##E##.##GREFFE##.##
+004##.##DÉPLACER##.##E##.##KÉRATOPHAKIE##.##
+004##.##DÉPLACER##.##E##.##LAMBEAU##.##
+004##.##DÉPLACER##.##E##.##MÉDIALISATION##.##
+004##.##DÉPLACER##.##E##.##NEUROTISATION##.##
+004##.##DÉPLACER##.##E##.##POLLICISATION##.##
+004##.##DÉPLACER##.##E##.##TRANSFERT##.##
+004##.##DÉPLACER##.##E##.##TRANSLOCATION##.##
+004##.##DÉPLACER##.##E##.##TRANSPLANTATION##.##
+004##.##DÉPLACER##.##E##.##TRANSPOSITION##.##
+004##.##DÉPLACER##.##E##.##-GREFFE##.##
+004##.##DÉPLACER##.##E##.##-TRANSPLANTATION##.##
+004##.##DÉTRUIRE##.##N##.##ABRASION##.##
+004##.##DÉTRUIRE##.##N##.##CAUTÉRISATION##.##
+004##.##DÉTRUIRE##.##N##.##COAGULATION##.##
+004##.##DÉTRUIRE##.##N##.##CRYOTHÉRAPIE##.##
+004##.##DÉTRUIRE##.##N##.##CURIETHÉRAPIE##.##
+004##.##DÉTRUIRE##.##N##.##DESTRUCTION##.##
+004##.##DÉTRUIRE##.##N##.##EXFOLIATION##.##
+004##.##DÉTRUIRE##.##N##.##IRRADIATION##.##
+004##.##DÉTRUIRE##.##N##.##MEULAGE##.##
+004##.##DÉTRUIRE##.##N##.##NEUTRONTHÉRAPIE##.##
+004##.##DÉTRUIRE##.##N##.##PROTONTHÉRAPIE##.##
+004##.##DÉTRUIRE##.##N##.##SCLÉROSE##.##
+004##.##DÉTRUIRE##.##N##.##THERMOTHÉRAPIE##.##
+004##.##DÉTRUIRE##.##N##.##RADIOFRÉQUENCE (Trai##.##
+004##.##DÉTRUIRE##.##N##.##-ABRASION##.##
+004##.##DÉTRUIRE##.##N##.##-COAGULATION##.##
+004##.##DÉTRUIRE##.##N##.##-LYSE##.##
+004##.##DÉTRUIRE##.##N##.##-SCLÉROSE##.##
+004##.##DÉVIER##.##C##.##ARTÉRIALISATION##.##
+004##.##DÉVIER##.##C##.##CIRCULATION EXTRACOR##.##
+004##.##DÉVIER##.##C##.##COURT-CIRCUIT##.##
+004##.##DÉVIER##.##C##.##DÉRIVATION [BYPASS]##.##
+004##.##DÉVIER##.##C##.##DÉROUTEMENT##.##
+004##.##DÉVIER##.##C##.##EXCLUSION##.##
+004##.##DÉVIER##.##C##.##INVERSION (de flux)##.##
+004##.##DÉVIER##.##C##.##PONTAGE##.##
+004##.##DÉVIER##.##C##.##SUPERFICIALISATION##.##
+004##.##DRAINER##.##J##.##DRAINAGE##.##
+004##.##ÉDUQUER##.##R##.##APPRENTISSAGE##.##
+004##.##ÉDUQUER##.##R##.##ENTRAÎNEMENT##.##
+004##.##ENLEVER##.##G##.##ABLATION##.##
+004##.##ENLEVER##.##G##.##DÉMÉCHAGE##.##
+004##.##ENREGISTRER##.##Q##.##ACQUISITION DE DONNÉ##.##
+004##.##ENREGISTRER##.##Q##.##ENREGISTREMENT##.##
+004##.##ENREGISTRER##.##Q##.##IMAGE##.##
+004##.##ENREGISTRER##.##Q##.##-GRAPHIE##.##
+004##.##ÉVACUER##.##J##.##ASPIRATION##.##
+004##.##ÉVACUER##.##J##.##DÉCAILLOTAGE##.##
+004##.##ÉVACUER##.##J##.##ÉVACUATION##.##
+004##.##ÉVACUER##.##J##.##EXPRESSION##.##
+004##.##ÉVACUER##.##J##.##EXSUFFLATION##.##
+004##.##ÉVACUER##.##J##.##SAIGNÉE##.##
+004##.##ÉVACUER##.##J##.##SOUSTRACTION THÉRAPE##.##
+004##.##ÉVACUER##.##J##.##-ASPIRATION##.##
+004##.##ÉVIDER##.##G##.##CURETAGE##.##
+004##.##ÉVIDER##.##G##.##DÉSOBTURATION##.##
+004##.##ÉVIDER##.##G##.##ÉNUCLÉATION##.##
+004##.##ÉVIDER##.##G##.##ÉVICTION##.##
+004##.##ÉVIDER##.##G##.##ÉVIDEMENT##.##
+004##.##ÉVIDER##.##G##.##ÉVISCÉRATION##.##
+004##.##ÉVIDER##.##G##.##EXENTÉRATION##.##
+004##.##EXAMINER##.##Q##.##ANALYSE##.##
+004##.##EXAMINER##.##Q##.##DÉTECTION##.##
+004##.##EXAMINER##.##Q##.##ÉTUDE##.##
+004##.##EXAMINER##.##Q##.##EXAMEN##.##
+004##.##EXAMINER##.##Q##.##EXPLORATION##.##
+004##.##EXAMINER##.##Q##.##MONITORAGE##.##
+004##.##EXAMINER##.##Q##.##RECHERCHE##.##
+004##.##EXAMINER##.##Q##.##SURVEILLANCE##.##
+004##.##EXAMINER##.##Q##.##TRANSILLUMINATION##.##
+004##.##EXAMINER##.##Q##.##-SCOPIE##.##
+004##.##EXCISER##.##F##.##AMPUTATION##.##
+004##.##EXCISER##.##F##.##CIRCONCISION##.##
+004##.##EXCISER##.##F##.##CONISATION##.##
+004##.##EXCISER##.##F##.##CURAGE##.##
+004##.##EXCISER##.##F##.##DÉSARTICULATION##.##
+004##.##EXCISER##.##F##.##EXCISION##.##
+004##.##EXCISER##.##F##.##EXÉRÈSE##.##
+004##.##EXCISER##.##F##.##PRÉLÈVEMENT (pour gr##.##
+004##.##EXCISER##.##F##.##RÉSECTION##.##
+004##.##EXCISER##.##F##.##-ECTOMIE##.##
+004##.##EXCISER##.##F##.##-MILEUSIS##.##
+004##.##EXTRAIRE##.##G##.##ACCOUCHEMENT##.##
+004##.##EXTRAIRE##.##G##.##AVULSION##.##
+004##.##EXTRAIRE##.##G##.##ÉPILATION##.##
+004##.##EXTRAIRE##.##G##.##EXTRACTION##.##
+004##.##EXTRAIRE##.##G##.##[STRIPPING]##.##
+004##.##FABRIQUER##.##M##.##CONFECTION##.##
+004##.##FABRIQUER##.##M##.##CRÉATION##.##
+004##.##FIXER##.##D##.##BLOCAGE##.##
+004##.##FIXER##.##D##.##CONTENTION##.##
+004##.##FIXER##.##D##.##FIXATION##.##
+004##.##FIXER##.##D##.##INDENTATION##.##
+004##.##FIXER##.##D##.##RECOLLAGE##.##
+004##.##FIXER##.##D##.##(RE)SCELLEMENT##.##
+004##.##FIXER##.##D##.##SOUTÈNEMENT##.##
+004##.##FIXER##.##D##.##STABILISATION##.##
+004##.##FIXER##.##D##.##SUSPENSION##.##
+004##.##FIXER##.##D##.##-DÈSE##.##
+004##.##FIXER##.##D##.##-FIXATION##.##
+004##.##FIXER##.##D##.##-PEXIE##.##
+004##.##FIXER##.##D##.##-RISE##.##
+004##.##FRAGMENTER##.##N##.##FRAGMENTATION##.##
+004##.##FRAGMENTER##.##N##.##-TRIPSIE  [-TRITIE]##.##
+004##.##GUIDER##.##Q##.##GUIDAGE##.##
+004##.##GUIDER##.##Q##.##REPÉRAGE##.##
+004##.##GUIDER##.##Q##.##REPÈRE (POSE DE)##.##
+004##.##GUIDER##.##Q##.##-GUIDAGE##.##
+004##.##IMPLANTER##.##L##.##ARMATURE##.##
+004##.##IMPLANTER##.##L##.##CATHÉTÉRISME##.##
+004##.##IMPLANTER##.##L##.##IMPLANTATION##.##
+004##.##IMPLANTER##.##L##.##INSERTION##.##
+004##.##IMPLANTER##.##L##.##INTUBATION##.##
+004##.##IMPLANTER##.##L##.##POSE##.##
+004##.##IMPLANTER##.##L##.##REPOSE##.##
+004##.##IMPLANTER##.##L##.##SONDAGE##.##
+004##.##INJECTER##.##L##.##ADMINISTRATION##.##
+004##.##INJECTER##.##L##.##ANESTHÉSIE##.##
+004##.##INJECTER##.##L##.##ALIMENTATION##.##
+004##.##INJECTER##.##L##.##AUTOHÉMOTHÉRAPIE##.##
+004##.##INJECTER##.##L##.##BLOC NERVEUX##.##
+004##.##INJECTER##.##L##.##INFILTRATION##.##
+004##.##INJECTER##.##L##.##INGESTION##.##
+004##.##INJECTER##.##L##.##INJECTION##.##
+004##.##INJECTER##.##L##.##INSÉMINATION##.##
+004##.##INJECTER##.##L##.##INSTILLATION##.##
+004##.##INJECTER##.##L##.##INSUFFLATION##.##
+004##.##INJECTER##.##L##.##IONOPHORÈSE##.##
+004##.##INJECTER##.##L##.##MÉSOTHÉRAPIE##.##
+004##.##INJECTER##.##L##.##NÉBULISATION##.##
+004##.##INJECTER##.##L##.##OXYGÉNOTHÉRAPIE##.##
+004##.##INJECTER##.##L##.##PERFUSION##.##
+004##.##INJECTER##.##L##.##SYNOVIORTHÈSE##.##
+004##.##INJECTER##.##L##.##TRANSFUSION##.##
+004##.##INJECTER##.##L##.##VENTILATION##.##
+004##.##INJECTER##.##L##.##-INFUSION##.##
+004##.##INJECTER##.##L##.##-TRANSFUSION##.##
+004##.##LIBÉRER##.##P##.##DÉBLOCAGE##.##
+004##.##LIBÉRER##.##P##.##DÉBRIDEMENT##.##
+004##.##LIBÉRER##.##P##.##DÉCOMPRESSION##.##
+004##.##LIBÉRER##.##P##.##DÉGAGEMENT##.##
+004##.##LIBÉRER##.##P##.##DÉSENFOUISSEMENT##.##
+004##.##LIBÉRER##.##P##.##DÉSOBSTRUCTION##.##
+004##.##LIBÉRER##.##P##.##LIBÉRATION##.##
+004##.##LIBÉRER##.##P##.##RECANALISATION##.##
+004##.##LIBÉRER##.##P##.##REPERMÉATION##.##
+004##.##MESURER##.##Q##.##BILAN##.##
+004##.##MESURER##.##Q##.##DÉTERMINATION (d'une##.##
+004##.##MESURER##.##Q##.##ÉVALUATION##.##
+004##.##MESURER##.##Q##.##QUANTIFICATION##.##
+004##.##MESURER##.##Q##.##MESURE##.##
+004##.##MESURER##.##Q##.##-GRAMME##.##
+004##.##MESURER##.##Q##.##-MÉTRIE##.##
+004##.##NETTOYER##.##J##.##ASSAINISSEMENT##.##
+004##.##NETTOYER##.##J##.##DÉTARTRAGE##.##
+004##.##NETTOYER##.##J##.##DÉTERSION##.##
+004##.##NETTOYER##.##J##.##ÉPURATION##.##
+004##.##NETTOYER##.##J##.##IRRIGATION##.##
+004##.##NETTOYER##.##J##.##LAVAGE##.##
+004##.##NETTOYER##.##J##.##NETTOYAGE##.##
+004##.##NETTOYER##.##J##.##PANSEMENT##.##
+004##.##NETTOYER##.##J##.##PARAGE##.##
+004##.##NETTOYER##.##J##.##PELAGE##.##
+004##.##NETTOYER##.##J##.##SOIN INSTRUMENTAL##.##
+004##.##NETTOYER##.##J##.##TOILETTE##.##
+004##.##OCCLURE##.##S##.##EMBOLISATION##.##
+004##.##OCCLURE##.##S##.##FERMETURE##.##
+004##.##OCCLURE##.##S##.##HÉMOSTASE##.##
+004##.##OCCLURE##.##S##.##LIGATURE##.##
+004##.##OCCLURE##.##S##.##OBLITÉRATION##.##
+004##.##OCCLURE##.##S##.##OCCLUSION##.##
+004##.##OCCLURE##.##S##.##SUPPRESSION (de circ##.##
+004##.##OUVRIR##.##C##.##ACUPUNCTURE##.##
+004##.##OUVRIR##.##C##.##FENESTRATION##.##
+004##.##OUVRIR##.##C##.##FORAGE##.##
+004##.##OUVRIR##.##C##.##OUVERTURE##.##
+004##.##OUVRIR##.##C##.##MICROPONCTIONS##.##
+004##.##OUVRIR##.##C##.##PERFORATION##.##
+004##.##PRÉLEVER##.##H##.##BIOPSIE##.##
+004##.##PRÉLEVER##.##H##.##EMPREINTE##.##
+004##.##PRÉLEVER##.##H##.##FROTTIS##.##
+004##.##PRÉLEVER##.##H##.##PONCTION##.##
+004##.##PRÉLEVER##.##H##.##PRÉLÈVEMENT (diagnos##.##
+004##.##PRÉLEVER##.##H##.##-BIOPSIE##.##
+004##.##PRÉLEVER##.##H##.##-CENTÈSE##.##
+004##.##PRÉLEVER##.##H##.##-PONCTION##.##
+004##.##PRÉPARER##.##M##.##CONDITIONNEMENT##.##
+004##.##PRÉPARER##.##M##.##MODÉLISATION##.##
+004##.##PRÉPARER##.##M##.##MOULAGE D'ÉTUDE##.##
+004##.##PRÉPARER##.##M##.##PRÉPARATION##.##
+004##.##PRÉPARER##.##M##.##SIMULATION##.##
+004##.##PROVOQUER##.##R##.##BALNÉOPUVATHÉRAPIE##.##
+004##.##PROVOQUER##.##R##.##CHOC ÉLECTRIQUE##.##
+004##.##PROVOQUER##.##R##.##DÉCLENCHEMENT##.##
+004##.##PROVOQUER##.##R##.##ÉLECTROCONVULSIVOTHÉ##.##
+004##.##PROVOQUER##.##R##.##ÉPREUVE##.##
+004##.##PROVOQUER##.##R##.##HYPNOSE##.##
+004##.##PROVOQUER##.##R##.##INDUCTION##.##
+004##.##PROVOQUER##.##R##.##PHOTOTHÉRAPIE##.##
+004##.##PROVOQUER##.##R##.##PROVOCATION##.##
+004##.##PROVOQUER##.##R##.##RELAXATION##.##
+004##.##PROVOQUER##.##R##.##STIMULATION##.##
+004##.##PROVOQUER##.##R##.##TEST##.##
+004##.##PROVOQUER##.##R##.##-STIMULATION##.##
+004##.##PROVOQUER##.##R##.##-TEST##.##
+004##.##RÉÉDUQUER##.##R##.##MANIPULATION##.##
+004##.##RÉÉDUQUER##.##R##.##MÉDECINE MANUELLE##.##
+004##.##RÉÉDUQUER##.##R##.##MOBILISATION##.##
+004##.##RÉÉDUQUER##.##R##.##RÉÉDUCATION##.##
+004##.##RÉÉDUQUER##.##R##.##RÉENTRAÎNEMENT##.##
+004##.##RÉGLER##.##M##.##ADAPTATION##.##
+004##.##RÉGLER##.##M##.##AJUSTEMENT##.##
+004##.##RÉGLER##.##M##.##CONTRÔLE##.##
+004##.##RÉGLER##.##M##.##INITIALISATION##.##
+004##.##RÉGLER##.##M##.##MODIFICATION##.##
+004##.##RÉGLER##.##M##.##PROGRAMMATION##.##
+004##.##RÉGLER##.##M##.##RÉGLAGE##.##
+004##.##RÉGLER##.##M##.##VÉRIFICATION##.##
+004##.##REMPLACER##.##K##.##REMPLACEMENT##.##
+004##.##RÉPARER##.##M##.##COLORATION##.##
+004##.##RÉPARER##.##M##.##CORRECTION##.##
+004##.##RÉPARER##.##M##.##COUVERTURE##.##
+004##.##RÉPARER##.##M##.##CURE##.##
+004##.##RÉPARER##.##M##.##ÉCLAIRCISSEMENT##.##
+004##.##RÉPARER##.##M##.##LISSAGE [LIFTING]##.##
+004##.##RÉPARER##.##M##.##MODELAGE##.##
+004##.##RÉPARER##.##M##.##PLASTIE##.##
+004##.##RÉPARER##.##M##.##RÉANIMATION##.##
+004##.##RÉPARER##.##M##.##RECONSTITUTION##.##
+004##.##RÉPARER##.##M##.##RECONSTRUCTION##.##
+004##.##RÉPARER##.##M##.##RÉFECTION##.##
+004##.##RÉPARER##.##M##.##REFORMATION##.##
+004##.##RÉPARER##.##M##.##RÉGÉNÉRATION##.##
+004##.##RÉPARER##.##M##.##REMODELAGE##.##
+004##.##RÉPARER##.##M##.##RENFORCEMENT##.##
+004##.##RÉPARER##.##M##.##RÉPARATION##.##
+004##.##RÉPARER##.##M##.##RESSUSCITATION##.##
+004##.##RÉPARER##.##M##.##RESTAURATION##.##
+004##.##RÉPARER##.##M##.##REVASCULARISATION##.##
+004##.##RÉPARER##.##M##.##SUPPLÉANCE##.##
+004##.##RÉPARER##.##M##.##UNIFOCALISATION##.##
+004##.##RÉPARER##.##M##.##-PLASTIE##.##
+004##.##REPLACER##.##E##.##ALIGNEMENT##.##
+004##.##REPLACER##.##E##.##DÉROTATION##.##
+004##.##REPLACER##.##E##.##DÉSINVAGINATION##.##
+004##.##REPLACER##.##E##.##DÉTORSION##.##
+004##.##REPLACER##.##E##.##ÉLONGATION##.##
+004##.##REPLACER##.##E##.##INSTALLATION##.##
+004##.##REPLACER##.##E##.##REDRESSEMENT##.##
+004##.##REPLACER##.##E##.##RÉDUCTION##.##
+004##.##REPLACER##.##E##.##REFOULEMENT##.##
+004##.##REPLACER##.##E##.##RÉIMPLANTATION##.##
+004##.##REPLACER##.##E##.##RÉINSERTION##.##
+004##.##REPLACER##.##E##.##RELÈVEMENT##.##
+004##.##REPLACER##.##E##.##REPOSITIONNEMENT##.##
+004##.##REPLACER##.##E##.##TRACTION##.##
+004##.##REPLACER##.##E##.##VERSION##.##
+004##.##RÉTRÉCIR##.##B##.##CERCLAGE##.##
+004##.##RÉTRÉCIR##.##B##.##CLOISONNEMENT##.##
+004##.##RÉTRÉCIR##.##B##.##DÉSÉPAISSISSEMENT##.##
+004##.##RÉTRÉCIR##.##B##.##PLICATURE##.##
+004##.##RÉTRÉCIR##.##B##.##RACCOURCISSEMENT##.##
+004##.##RÉTRÉCIR##.##B##.##RÉDUCTION (de volume##.##
+004##.##RÉUNIR##.##C##.##ADHÉSION##.##
+004##.##RÉUNIR##.##C##.##ANASTOMOSE##.##
+004##.##RÉUNIR##.##C##.##SUTURE##.##
+004##.##RÉUNIR##.##C##.##-RAPHIE##.##
+004##.##RÉUNIR##.##C##.##-STOMIE##.##
+004##.##RÉUNIR##.##C##.##-SYNTHÈSE##.##
+004##.##RÉVISER##.##M##.##ADJONCTION##.##
+004##.##RÉVISER##.##M##.##DÉMONTAGE##.##
+004##.##RÉVISER##.##M##.##INTERNALISATION##.##
+004##.##RÉVISER##.##M##.##REMISE EN CIRCUIT##.##
+004##.##RÉVISER##.##M##.##RENOUVELLEMENT##.##
+004##.##RÉVISER##.##M##.##RESCELLEMENT##.##
+004##.##RÉVISER##.##M##.##RÉTABLISSEMENT (de c##.##
+004##.##RÉVISER##.##M##.##RETOUCHE##.##
+004##.##RÉVISER##.##M##.##RÉVISION##.##
+004##.##RÉVISER##.##M##.##TOTALISATION##.##
+004##.##RÉVISER##.##M##.##TRANSFORMATION##.##
+004##.##RÉVISER##.##M##.## ... ITÉRATIF##.##
+004##.##SÉPARER##.##P##.##DÉCOLLEMENT##.##
+004##.##SÉPARER##.##P##.##DÉCORTICATION##.##
+004##.##SÉPARER##.##P##.##DÉSINSERTION##.##
+004##.##SÉPARER##.##P##.##DISSECTION##.##
+004##.##SÉPARER##.##P##.##DISSOCIATION##.##
+004##.##SÉPARER##.##P##.##ISOLEMENT##.##
+004##.##SÉPARER##.##P##.##SÉPARATION##.##
+004##.##SÉPARER##.##P##.##SEVRAGE##.##
+004##.##SÉPARER##.##P##.##-PHÉRÈSE##.##
+005##.##A##.##SYSTÈME NERVEUX##.##
+005##.##B##.##OEIL##.##
+005##.##C##.##OREILLE##.##
+005##.##D##.##COEUR ET GROS VAISSEAUX##.##
+005##.##E##.##VAISSEAUX PÉRIPHÉRIQUES##.##
+005##.##F##.##SYSTÈME HÉMATOPOÏÉTIQUE ET RÉTICULOENDOTHÉLIAL##.##
+005##.##G##.##SYSTÈME RESPIRATOIRE##.##
+005##.##H##.##SYSTÈME DIGESTIF##.##
+005##.##J##.##APPAREIL URINAIRE ET GÉNITAL, PROCRÉATION##.##
+005##.##K##.##SYSTÈME ENDOCRINIEN##.##
+005##.##L##.##OS, ARTICULATIONS & TISSUS MOUS : TÊTE, COU ET TRONC##.##
+005##.##M##.##OS, ARTICULATIONS & TISSUS MOUS : MEMBRE SUPÉRIEUR##.##
+005##.##N##.##OS, ARTICULATIONS & TISSUS MOUS : MEMBRE INFÉRIEUR##.##
+005##.##P##.##OS, ARTICULATIONS & TISSUS MOUS : LOCALISAT. IMPRÉCISE##.##
+005##.##Q##.##PEAU ET TISSU CELLULAIRE SOUSCUTANÉ##.##
+005##.##Z##.##RÉGIONS TOPOGRAPHIQUES##.##
+006##.##AA##.##A##.##Encéphale##.##
+006##.##AB##.##A##.##Ventricules, méninges et liquide cérébrospinal intracrâniens##.##
+006##.##AC##.##A##.##Intracrânien, localisations multiples ou sans précision##.##
+006##.##AD##.##A##.##Nerfs crâniens##.##
+006##.##AE##.##A##.##Moelle épinière##.##
+006##.##AF##.##A##.##Canal de l'épendyme, méninges et liquide cérébrospinal rachidiens##.##
+006##.##AG##.##A##.##Système nerveux central, sans précision##.##
+006##.##AH##.##A##.##Nerfs rachidiens (y compris la partie intrarachidienne)##.##
+006##.##AJ##.##A##.##Système nerveux autonome##.##
+006##.##AK##.##A##.##Mémoire##.##
+006##.##AL##.##A##.##Psychologie, cognition##.##
+006##.##AM##.##A##.##Sommeil##.##
+006##.##AN##.##A##.##Sensibilité, douleur##.##
+006##.##AZ##.##A##.##Système nerveux, sans précision##.##
+006##.##BA##.##B##.##Paupières, sourcils##.##
+006##.##BB##.##B##.##Appareil lacrymal##.##
+006##.##BC##.##B##.##Conjonctive bulbaire##.##
+006##.##BD##.##B##.##Cornée##.##
+006##.##BE##.##B##.##Iris, corps ciliaires, sclérotique, chambre antérieure##.##
+006##.##BF##.##B##.##Cristallin##.##
+006##.##BG##.##B##.##Rétine, choroïde, vitré, segment postérieur##.##
+006##.##BH##.##B##.##Bulbe oculaire##.##
+006##.##BJ##.##B##.##Muscles oculomoteurs##.##
+006##.##BK##.##B##.##Orbite##.##
+006##.##BL##.##B##.##Vision##.##
+006##.##BZ##.##B##.##Œil, sans précision##.##
+006##.##CA##.##C##.##Oreille externe##.##
+006##.##CB##.##C##.##Oreille moyenne##.##
+006##.##CC##.##C##.##Oreille interne##.##
+006##.##CD##.##C##.##Audition##.##
+006##.##CE##.##C##.##Équilibre##.##
+006##.##CZ##.##C##.##Oreille, sans précision##.##
+006##.##DA##.##D##.##Myocarde, cavités et cloisons cardiaques##.##
+006##.##DB##.##D##.##Valves cardiaques, endocarde##.##
+006##.##DC##.##D##.##Péricarde##.##
+006##.##DD##.##D##.##Artères coronaires##.##
+006##.##DE##.##D##.##Système de conduction de l'excitation du cœur##.##
+006##.##DF##.##D##.##Vaisseaux pulmonaires##.##
+006##.##DG##.##D##.##Aorte##.##
+006##.##DH##.##D##.##Veines caves##.##
+006##.##DK##.##D##.##Motricité cardiaque##.##
+006##.##DZ##.##D##.##Cœur entier, cœur et gros vaisseaux, sans précision##.##
+006##.##EA##.##E##.##Vaisseaux intracrâniens##.##
+006##.##EB##.##E##.##Vaisseaux de la tête et du cou, extracrâniens ou non  précisé##.##
+006##.##EC##.##E##.##Artères des membres supérieurs et du thorax##.##
+006##.##ED##.##E##.##Artères abdominales et pelviennes##.##
+006##.##EE##.##E##.##Artères des membres inférieurs##.##
+006##.##EF##.##E##.##Veines des membres supérieurs et du thorax##.##
+006##.##EG##.##E##.##Veines abdominales et pelviennes##.##
+006##.##EH##.##E##.##Veine porte et ses branches##.##
+006##.##EJ##.##E##.##Veines des membres inférieurs##.##
+006##.##EK##.##E##.##Vaisseaux non précisés des membres supérieurs et du thorax##.##
+006##.##EL##.##E##.##Vaisseaux non précisés abdominaux et pelviens##.##
+006##.##EM##.##E##.##Vaisseaux non précisés des membres inférieurs##.##
+006##.##EN##.##E##.##Artères, sans précisioon##.##
+006##.##EP##.##E##.##Veines, sans précision##.##
+006##.##EQ##.##E##.##Circulation sanguine##.##
+006##.##EZ##.##E##.##Vaisseaux sanguins, sans précision##.##
+006##.##FA##.##F##.##Tonsilles palatines et pharyngiennes##.##
+006##.##FB##.##F##.##Thymus##.##
+006##.##FC##.##F##.##Vaisseaux et nœuds lymphatiques##.##
+006##.##FD##.##F##.##Moelle osseuse##.##
+006##.##FE##.##F##.##Sang##.##
+006##.##FF##.##F##.##Rate##.##
+006##.##FG##.##F##.##Immunité##.##
+006##.##FZ##.##F##.##Système hématopoïétique et réticuloendothélial, sans précision##.##
+006##.##GA##.##G##.##Nez##.##
+006##.##GB##.##G##.##Sinus paranasaux##.##
+006##.##GC##.##G##.##Rhinopharynx et fosse infratemporale##.##
+006##.##GD##.##G##.##Larynx et épiglotte##.##
+006##.##GE##.##G##.##Trachée et arbre bronchique##.##
+006##.##GF##.##G##.##Poumons##.##
+006##.##GG##.##G##.##Plèvre##.##
+006##.##GH##.##G##.##Espace médiastinal##.##
+006##.##GJ##.##G##.##Odorat##.##
+006##.##GK##.##G##.##Langage, phonation##.##
+006##.##GL##.##G##.##Respiration##.##
+006##.##GZ##.##G##.##Système respiratoire, sans précision##.##
+006##.##HA##.##H##.##Lèvres, langue, cavité orale dans son ensemble##.##
+006##.##HB##.##H##.##Dents, parodonte, gencives##.##
+006##.##HC##.##H##.##Glandes salivaires##.##
+006##.##HD##.##H##.##Oropharynx, voile du palais##.##
+006##.##HE##.##H##.##Œsophage##.##
+006##.##HF##.##H##.##Estomac##.##
+006##.##HG##.##H##.##Intestin grêle##.##
+006##.##HH##.##H##.##Côlon et appendice##.##
+006##.##HJ##.##H##.##Rectum##.##
+006##.##HK##.##H##.##Anus, régions anale et périanale##.##
+006##.##HL##.##H##.##Foie##.##
+006##.##HM##.##H##.##Vésicule et conduits biliaires##.##
+006##.##HN##.##H##.##Pancréas##.##
+006##.##HP##.##H##.##Péritoine et cavité péritonéale##.##
+006##.##HQ##.##H##.##Déglutition##.##
+006##.##HR##.##H##.##Digestion##.##
+006##.##HS##.##H##.##Nutrition##.##
+006##.##HT##.##H##.##Défécation##.##
+006##.##HZ##.##H##.##Système digestif, sans précision##.##
+006##.##JA##.##J##.##Rein##.##
+006##.##JB##.##J##.##Bassinet et jonction pyélo-urétérale##.##
+006##.##JC##.##J##.##Uretère##.##
+006##.##JD##.##J##.##Vessie##.##
+006##.##JE##.##J##.##Urètre##.##
+006##.##JF##.##J##.##Espace rétropéritonéal et souspéritonéal##.##
+006##.##JG##.##J##.##Prostate, vésicules séminales##.##
+006##.##JH##.##J##.##Scrotum, contenu scrotal, pénis##.##
+006##.##JJ##.##J##.##Ovaire, trompe##.##
+006##.##JK##.##J##.##Utérus non gravide##.##
+006##.##JL##.##J##.##Vagin##.##
+006##.##JM##.##J##.##Vulve, périnée féminin##.##
+006##.##JN##.##J##.##Utérus gravide##.##
+006##.##JP##.##J##.##Placenta, amnios, cordon##.##
+006##.##JQ##.##J##.##Fœtus, embryon##.##
+006##.##JR##.##J##.##Miction##.##
+006##.##JS##.##J##.##Fécondation##.##
+006##.##JT##.##J##.##Sexualité, érection##.##
+006##.##JV##.##J##.##Sécrétion urinaire, épuration sanguine##.##
+006##.##JZ##.##J##.##Appareil urinaire et génital, sans précision##.##
+006##.##KA##.##K##.##Hypophyse##.##
+006##.##KB##.##K##.##Épiphyse##.##
+006##.##KC##.##K##.##Glande thyroïde##.##
+006##.##KD##.##K##.##Glandes parathyroïdes##.##
+006##.##KE##.##K##.##Glandes surrénales##.##
+006##.##KF##.##K##.##Tumeur parapharyngée##.##
+006##.##KG##.##K##.##Métabolisme##.##
+006##.##KZ##.##K##.##Système endocrinien, sans précision##.##
+006##.##LA##.##L##.##Squelette du crâne, de la face ou sans précision (sauf mâchoire)##.##
+006##.##LB##.##L##.##Maxillaire, mandibule##.##
+006##.##LC##.##L##.##Muscles et tissus mous du crâne, de la face et du cou  (sauf muscles oculomoteurs)##.##
+006##.##LD##.##L##.##Colonne vertébrale cervicale, charnières vertébrooccipitale et cervicothoracique##.##
+006##.##LE##.##L##.##Colonne vertébrale thoracique, charnière thoracolombaire##.##
+006##.##LF##.##L##.##Colonne vertébrale lombaire, charnière lombosacrée##.##
+006##.##LG##.##L##.##Sacrum, coccyx##.##
+006##.##LH##.##L##.##Colonne vertébrale, sans précision##.##
+006##.##LJ##.##L##.##Cage thoracique##.##
+006##.##LL##.##L##.##Muscles et tissus mous de la paroi thoracique. Diaphragme##.##
+006##.##LM##.##L##.##Muscles et tissus mous des parois abdominale et lombaire##.##
+006##.##LZ##.##L##.##Os, articulations et tissus mous de la tête, du cou et du tronc, localisations multiples ou sans précision##.##
+006##.##MA##.##M##.##Scapula, clavicule##.##
+006##.##MB##.##M##.##Humérus##.##
+006##.##MC##.##M##.##Os de l'avant-bras##.##
+006##.##MD##.##M##.##Os de la main##.##
+006##.##ME##.##M##.##Articulations de la ceinture scapulaire##.##
+006##.##MF##.##M##.##Articulations du coude##.##
+006##.##MG##.##M##.##Articulations du poignet##.##
+006##.##MH##.##M##.##Articulations de la main##.##
+006##.##MJ##.##M##.##Muscles et tissus mous du membre supérieur##.##
+006##.##MK##.##M##.##Préhension##.##
+006##.##MZ##.##M##.##Os, articulations et tissus mous du membre supérieur, localisations multiples ou sans précision##.##
+006##.##NA##.##N##.##Os coxal##.##
+006##.##NB##.##N##.##Fémur et patelle##.##
+006##.##NC##.##N##.##Os de la jambe##.##
+006##.##ND##.##N##.##Os du pied##.##
+006##.##NE##.##N##.##Articulations de la ceinture pelvienne, articulation coxofémorale##.##
+006##.##NF##.##N##.##Articulation du genou##.##
+006##.##NG##.##N##.##Articulations de la cheville##.##
+006##.##NH##.##N##.##Articulations du pied##.##
+006##.##NJ##.##N##.##Muscles et tissus mous du membre inférieur##.##
+006##.##NK##.##N##.##Marche##.##
+006##.##NZ##.##N##.##Os, articulations et tissus mous du membre inférieur, localisations multiples ou sans précision##.##
+006##.##PA##.##P##.##Os, sans mention de localisation##.##
+006##.##PB##.##P##.##Articulations, sans mention de localisation##.##
+006##.##PC##.##P##.##Muscles, sans mention de localisation##.##
+006##.##PD##.##P##.##Tissus mous, sans mention de localisation##.##
+006##.##PE##.##P##.##Mobilité, tonicité##.##
+006##.##PZ##.##P##.##Os, articulations et tissus mous, localisations multiples sans précision##.##
+006##.##QA##.##Q##.##Peau et tissu cellulaire souscutané  de la tête et du cou##.##
+006##.##QB##.##Q##.##Peau et tissu cellulaire souscutané  du tronc##.##
+006##.##QC##.##Q##.##Peau et tissu cellulaire souscutané  du membre supérieur##.##
+006##.##QD##.##Q##.##Peau et tissu cellulaire souscutané  du membre inférieur##.##
+006##.##QE##.##Q##.##Sein##.##
+006##.##QZ##.##Q##.##Peau et tissu cellulaire souscutané, sans précision##.##
+006##.##ZA##.##Z##.##Tête et cou##.##
+006##.##ZB##.##Z##.##Thorax##.##
+006##.##ZC##.##Z##.##Abdomen et petit bassin##.##
+006##.##ZD##.##Z##.##Membre supérieur##.##
+006##.##ZE##.##Z##.##Membre inférieur##.##
+006##.##ZF##.##Z##.##Qualité de la vie##.##
+006##.##ZZ##.##Z##.##Région topographique non précisée##.##

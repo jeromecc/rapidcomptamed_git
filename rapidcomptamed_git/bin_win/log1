@@ -1,0 +1,153 @@
+C
+C//Consultation//N//22//0//0//0//0//0|
+C_AMO1SUR3
+C_AMO2sur3
+ECG
+C+MGE
+V//Autre//N//00//0//0//0//0//0|
+C_AMO2sur3//Autre//N//00//0//0//0//0//0|
+C_AMO1SUR3//Autre//N//00//0//0//0//0//0|
+C+MGE1sur3//Autre//N//00//0//0//0//0//0|
+C+MGE2sur3//Autre//N//00//0//0//0//0//0|
+CALSACEAMC//Autre//N//00//0//0//0//0//0|
+C+MNO//Autre//N//00//0//0//0//0//0|
+CALSACEAMO//Autre//N//00//0//0//0//0//0|
+INF_MI_NZLB001_2sur3//Autre//N//00//0//0//0//0//0|
+INF_MI_NZLB001_1sur3//Autre//N//00//0//0//0//0//0|
+C+MNO_2sur3//Autre//N//00//0//0//0//0//0|
+C+MNO_1sur3//Autre//N//00//0//0//0//0//0|
+C+MGE//Autre//N//00//0//0//0//0//0|
+V+MU//Autre//N//00//0//0//0//0//0|
+C+MCG//Autre//N//00//0//0//0//0//0|
+C//Consultation//N//0//0//0//0//2900.07//0|
+C//Consultation//N//0//0//0//0//468.6//0|
+POSE_DE_STERILET_JKLD001_2sur3//Autre//N//00//0//0//0//0//0|
+POSE_DE_STERILET_JKLD001_1sur3//Autre//N//00//0//0//0//0//0|
+C//Consultation//N//0//0//0//27//0//0|
+DEP//Autre//N//00//0//0//0//0//0|
+SCORE_HAMILTON_ALQP003//Autre//N//00//0//0//0//0//0|
+INCISION_ABCES_QZJA009//Autre//N//00//0//0//0//0//0|
+C//Consultation//N//0//0//0//0//4219.62//0|
+C//Consultation//N//0//0//0//0//1275.4//0|
+C//Consultation//N//0//3000//0//0//0//0|
+INF_MI_NZLB001//Autre//N//00//0//0//0//0//0|
+Rétrocession d'honoraires//Rétrocession//N//0//0//0//0//347//0|
+ECG//Autre//N//00//0//0//0//0//0|
+infiltration//Autre//N//00//0//0//0//0//0|
+POSE_DE_STERILET_JKLD001//Autre//N//00//0//0//0//0//0|
+ABLATION_TUMEUR_CUTANEE_QZFA028//Autre//N//00//0//0//0//0//0|
+libre
+1/3ECG//Autre//N//00//0//0//0//0//0|
+2/3ECG//Autre//N//00//0//0//0//0//0|
+libre//Autre//N//00//0//0//0//0//0|
+ABL_IMPLANT_QZGA002//Autre//N//00//0//0//0//0//0|
+infiltrationMS2/3//Autre//N//00//0//0//0//0//0|
+infiltrationMS1/3//Autre//N//00//0//0//0//0//0|
+infiltrationMS//Autre//N//00//0//0//0//0//0|
+QAJA013_suture_face//Autre//N//00//0//0//0//0//0|
+MU//Autre//N//00//0//0//0//0//0|
+forfait_ALD//Autre//N//00//0//0//0//0//0|
+QZFA028//Autre//N//00//0//0//0//0//0|
+MZLB001_2/3//Autre//N//00//0//0//0//0//0|
+MZLB001_1/3//Autre//N//00//0//0//0//0//0|
+V
+cs
+MNO
+MGE
+LHLB001 
+C+MNO
+MZLB001 
+C+MCG
+V+MND
+DEQP003 
+EGFA007 
+NZLB001 
+V+MU
+C+DE
+CS
+QZGA002 
+JKLD001 
+MZMP001
+MD
+MZLB001
+DEQP003
+MU
+QANP007
+NZLB001
+JKLD001
+LHLB001
+QZJA009
+MZLB00126.13 euros
+ALQP003
+QZGA004
+QZGA002
+QZJA002
+VS
+EGFA007
+IK
+NGMP001
+QZFA028
+MCG
+ID
+CA
+QAJA013
+kilomètres
+virement caisses vers CE
+
+MZMP006
+DP
+somme libre
+ALQP006
+virement cpam credit lyonnais
+
+QZJA017
+812
+
+garde le her
+
+AHLB006
+virement caisses vars CE
+
+vrement caisses ccredit lyonnais
+
+Taxe Professionnelle
+Personnel interim, secr?tariat t?l?phonique
+Cotisation professionnelle et syndicales 
+R?paration et entretien
+Frais de bureau, documentation, et P et T
+Frais de personnel
+Salaires nets personnels
+Assurances
+Achats:fournitures et pharmacie
+Gaz, ?lectricit?, chauffage, eau
+Frais divers de gestion
+Charges sociales
+Apports praticien  	
+Frais financiers
+Location matriel
+Vieillesse, Assurance Maladie, Alloc. Fam.
+Personnel int?rim, secr?tariat t?l?phonique
+Charges sociales du praticien
+Salaires nets
+Cotisation professionnelle et syndicales
+Achats : fournitures et pharmacie
+Petit outillage
+Travaux, Fournitures, Services Ext?rieurs
+Transports et d?placements
+Personnel interim, secretariat telephonique
+Reparation et entretien
+Travaux, Fournitures, Services Exterieurs
+Gaz, electricite, chauffage, eau
+Cadeaux, representation et reception
+Congres
+Apports praticien
+Prelevements du praticien
+Honoraires retrocedes
+Debours payes pour le compte des clients
+Autres recettes
+Honoraires ne constituant pas de retrocession
+Location materiel
+Divers
+Frais de voiture
+Impots et Taxes
+Frais moto

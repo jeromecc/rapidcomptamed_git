@@ -1,0 +1,14 @@
+Version du : 16/06/2003 	
+	
+Fichier NX complet 	
+Ce fichier intitulé CACTOT1 avec 1 correspondant au numéro de version reprend l'ensemble des informations de la CCAM, y compris les informations non tarifaires (libellés longs, variables PMSI... ). 	
+Télécharger le fichier CACTOT1  </f_mediam/fo/ccam/CACTOT.zip>
+
+Fichier NX tarifaire total 	
+Ce fichier intitulé CAMTOTX1 est présenté sous la forme d'un enregistrement de 128 caractères par ligne. Il s'agit du format NX réduit utilisé pour la tarification. Il ne contient pas certains champs comme les libellés longs, variables PMSI.. . La version totale comprend l'ensemble des actes de la CCAM 	
+Télécharger le fichier CAMTOTX1 </f_mediam/fo/ccam/CAMTOTX.zip> 
+
+Fichier NX tarifaire en mise à jour 	
+Ce fichier intitulé CAMMAJX1 est présenté sous la forme d'un enregistrement de 128 caractères par ligne. Il s'agit du format NX réduit utilisé pour la tarification. Il ne contient pas certains champs comme les libellés longs, variables PMSI.. . La version mise à jour comprend uniquement les actes modifiés lors de cette version. 	
+Télécharger le fichier CAMMAJX1  </f_mediam/fo/ccam/CAMMAJX.zip>
+
